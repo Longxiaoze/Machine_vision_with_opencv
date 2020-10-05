@@ -1,4 +1,4 @@
-/*creat by 刘泽农liuzenong  date：2020.09.21
+/*creat by 龙笑泽  date：2020.09.21
  * 文件说明：0.使用opencv库读取三通道彩色图并显示
  *         1.将三通道彩色图片转化为灰度图
  *         2.Canny算子：均值滤波--》canny处理--》显示
